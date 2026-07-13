@@ -1,6 +1,0 @@
-{
-  "name": "수질 오염 정화 가상 실험실",
-  "description": "실제 하천물과 공장 폐수 시나리오를 통해 여러 촉매 및 필터 기술의 정화 효율을 비교하는 가상 실험 시뮬레이션입니다.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
